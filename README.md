@@ -12,6 +12,6 @@ Gourmet Guru is a food recipe web app built using HTML, SCSS, JavaScript, and Re
 - **User-Friendly Design**: The design is unique and aims to provide a delightful user experience.
 
 ## Screenshots
-![Homepage Screenshot]()
+![Homepage Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home%20page.png?raw=true)
 
 
