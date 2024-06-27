@@ -19,6 +19,16 @@ link to the web app-->https://gourmetguru.vercel.app/
 ![Homepage2 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home2.png?raw=true)
 ![Homepage3 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home3.png?raw=true)
 ![recipes page](https://github.com/Atrayeej/GourmetGuru/blob/main/images/previous%20searches.png?raw=true)
-
+## Themes 
+![theme1](
+https://github.com/Atrayeej/GourmetGuru/blob/main/images/theme1.jpeg?raw=true
+)
+![theme1](
+https://github.com/Atrayeej/GourmetGuru/blob/main/images/theme1.jpeg?raw=true
+)
+## Theme color,animation speed and fontsize modifier  
+![asf](https://github.com/Atrayeej/GourmetGuru/blob/main/images/font%20and%20animation%20speed%20changer.png?raw=true)
+## Scalable on different devices
+![scalable](https://github.com/Atrayeej/GourmetGuru/blob/main/images/scalable.jpeg?raw=true)
 
 
