@@ -19,13 +19,13 @@ link to the web app-->https://gourmetguru.vercel.app/
 ![Homepage3 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home3.png?raw=true)
 ## Screenshots of Recipes page
 ![Recipes page](https://github.com/Atrayeej/GourmetGuru/blob/main/images/previous%20searches.png?raw=true)
-## Themes in Settings page
+## Themes(Dark/Light mode) in Settings page
 ![theme1](
 https://github.com/Atrayeej/GourmetGuru/blob/main/images/theme1.jpeg?raw=true
 )
 ![theme2](https://github.com/Atrayeej/GourmetGuru/blob/main/images/theme2.jpeg?raw=true)
 
-## Theme color,animation speed and fontsize modifier to enhance user experience
+## Theme(dark/light) color(red/blue/green/yellow/purple),animation speed(slow/medium/fast) and fontsize(small/medium/large) modifier to enhance user experience
 ![asf](https://github.com/Atrayeej/GourmetGuru/blob/main/images/font%20and%20animation%20speed%20changer.png?raw=true)
 ## Scalable on different devices
 ![scalable](https://github.com/Atrayeej/GourmetGuru/blob/main/images/scalable.jpeg?raw=true)
