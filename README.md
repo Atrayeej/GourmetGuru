@@ -13,10 +13,10 @@ link to the web app-->https://gourmetguru.vercel.app/
 - **User-Friendly Design**: The design is unique and aims to provide a delightful user experience.
 
 ## Screenshots
-![Homepage Screenshot]()
+![Homepage Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home%20page.png?raw=true)
 ##   
 
-![Homepage2 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home2.png?raw=true)
+![Homepage2 Screenshot]()
 ![Homepage3 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home3.png?raw=true)
 ![recipes page](https://github.com/Atrayeej/GourmetGuru/blob/main/images/previous%20searches.png?raw=true)
 ## Themes 
