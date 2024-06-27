@@ -12,11 +12,10 @@ link to the web app-->https://gourmetguru.vercel.app/
 - **Responsive Design**: Fully scalable and works seamlessly on all devices and screen sizes.
 - **User-Friendly Design**: The design is unique and aims to provide a delightful user experience.
 
-## Screenshots
-![Homepage Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home%20page.png?raw=true)
-##   
+## Screenshots 
+![Homepage Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home%20page.png?raw=true) 
 
-![Homepage2 Screenshot]()
+![Homepage2 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/homee.png?raw=true)
 ![Homepage3 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home3.png?raw=true)
 ![recipes page](https://github.com/Atrayeej/GourmetGuru/blob/main/images/previous%20searches.png?raw=true)
 ## Themes 
