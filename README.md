@@ -13,7 +13,7 @@ link to the web app-->https://gourmetguru.vercel.app/
 - **User-Friendly Design**: The design is unique and aims to provide a delightful user experience.
 
 ## Screenshots
-![Homepage Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home%20page.png?raw=true)
+![Homepage Screenshot]()
 ##   
 
 ![Homepage2 Screenshot](https://github.com/Atrayeej/GourmetGuru/blob/main/images/home2.png?raw=true)
@@ -23,9 +23,8 @@ link to the web app-->https://gourmetguru.vercel.app/
 ![theme1](
 https://github.com/Atrayeej/GourmetGuru/blob/main/images/theme1.jpeg?raw=true
 )
-![theme1](
-https://github.com/Atrayeej/GourmetGuru/blob/main/images/theme1.jpeg?raw=true
-)
+![theme2](https://github.com/Atrayeej/GourmetGuru/blob/main/images/theme2.jpeg?raw=true)
+
 ## Theme color,animation speed and fontsize modifier  
 ![asf](https://github.com/Atrayeej/GourmetGuru/blob/main/images/font%20and%20animation%20speed%20changer.png?raw=true)
 ## Scalable on different devices
