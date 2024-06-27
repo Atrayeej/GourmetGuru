@@ -3,7 +3,7 @@
 Gourmet Guru is a food recipe web app built using HTML, SCSS, JavaScript, and Reactjs. It offers a variety of functionalities to enhance the user experience, including dark and light mode, text color changes, font size adjustments, and animation speed control. The app is designed to be user-friendly and fully scalable across all devices and screen sizes.
 link to the web app-->https://gourmetguru.vercel.app/
 
-## Features
+## Key Features
 
 - **Dark and Light Mode**: Switch between dark and light themes to suit your preference.
 - **Text Color Changer**: Customize the text color to various options.
